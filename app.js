@@ -6,7 +6,7 @@ const fs = require('fs');
   周杰伦 3520
   薛之谦 3060
 */
-const reqUrl = 'https://www.kugou.com/yy/singer/home/3520.html';
+const reqUrl = 'https://www.kugou.com/yy/singer/home/3060.html';
 const hashList = [];
 const fileNames = [];
 
